@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alizare112
-- 👀 I’m interested in study
+- 👀 I’m interested in study and Programming 
 - 🌱 I’m currently learning asp.net
 - 💞️ I’m looking to collaborate on to train
 - 📫 How to reach me alizare112@gmail.com
